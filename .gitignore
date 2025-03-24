@@ -1,0 +1,6 @@
+.venv
+.idea
+f_droid.json
+github.xlsx
+github.json
+__pycache__
